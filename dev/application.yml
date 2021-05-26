@@ -1,6 +1,0 @@
-datasource:
-  configurations:
-    url: jdbc:sqlserver://tpdb.marathon.l4lb.thisdcos.directory:1433;databaseName=Configurations
-    username: sa
-    password: '{cipher}ed3a0f5a1ac83e86004078805f5453029153e0db8dfc53d1756bc6c71b59c2a3'
-    driverClassName: com.microsoft.sqlserver.jdbc.SQLServerDriver
