@@ -1,3 +1,0 @@
-db:
-   mongo:
-      url: http://localhost:2727
